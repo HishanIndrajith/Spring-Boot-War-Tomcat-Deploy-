@@ -13,3 +13,4 @@ This is an example to generate war instead of jar using Spring Boot and deploy i
 
 Then use command ``mvn clean  install tomcat7:deploy``
 
+Then Use a browser or postman application to send a GET request to _http://localhost:8080/api/students/1_
